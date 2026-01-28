@@ -1,10 +1,46 @@
 ## Hi, I’m Stéphanie 👋
 
-I’m a statistics graduate (May 2026) focused on risk modeling, credit decisioning,
-and responsible use of predictive models in financial contexts.
+I’m completing a Bachelor’s degree in Mathematics with a concentration in Statistics (graduating May 2026). I’m focused on **risk modeling, credit decisioning, and the responsible use of predictive models** in financial and regulated contexts.
 
-### Selected projects
-- **Credit approval classification** — supervised learning, missing data handling, model validation
-- **Predictive risk modeling (auto theft)** — feature governance, regularization, interpretability
+My work emphasizes **interpretability, validation, and governance**, with the goal of supporting decisions rather than automating them blindly.
 
-Interests: risk governance, fairness-aware modeling, model transparency.
+---
+
+## Selected projects
+
+### Credit Approval Classification  
+Supervised learning project focused on credit decisioning.
+- Data preprocessing and missing data handling  
+- Model comparison and validation  
+- Emphasis on interpretability and risk-aware evaluation  
+
+### Predictive Risk Modeling – Auto Theft  
+Statistical modeling of auto theft rates using socio-demographic data.
+- Feature governance and regularization  
+- Sensitivity analysis and stability checks  
+- Discussion of proxy variables and bias risks  
+- Focus on responsible interpretation of results  
+
+---
+
+## How I approach analytics
+
+- Treat models as **decision-support tools**, not answers  
+- Prioritize **data quality, assumptions, and limits**  
+- Favor transparent methods in risk-sensitive contexts  
+- Document trade-offs clearly for non-technical stakeholders  
+
+---
+
+## Interests
+
+- Risk governance and model oversight  
+- Fairness-aware modeling  
+- Model transparency and validation  
+- Analytics in regulated financial environments  
+
+---
+
+📍 Based in Montréal, Canada
+🔁 Open to relocation (Toronto)
+🔗 GitHub projects are documented with methodology and limitations
