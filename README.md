@@ -1,6 +1,6 @@
 ## Hi, I’m Stéphanie 👋
 
-I’m a statistics student focused on risk modeling, credit decisioning,
+I’m a statistics graduate (May 2026) focused on risk modeling, credit decisioning,
 and responsible use of predictive models in financial contexts.
 
 ### Selected projects
