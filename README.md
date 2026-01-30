@@ -42,5 +42,5 @@ Statistical modeling of auto theft rates using socio-demographic data.
 ---
 
 📍 Based in Montréal, Canada
-🔁 Open to relocation (Toronto)
-🔗 GitHub projects are documented with methodology and limitations
+- 🔁 Open to relocation (Toronto)
+- 🔗 GitHub projects are documented with methodology and limitations
