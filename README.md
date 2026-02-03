@@ -8,6 +8,13 @@ My work emphasizes **interpretability, validation, and governance**, with the go
 
 ## Selected projects
 
+### Early Warning Credit Risk Modeling
+Supervised learning project focused on risk detection and early warning, not automated credit decisions.
+- Explicit target definition and class-imbalance handling
+- Interpretable modeling (logistic and regularized baselines) with governed preprocessing
+- Model comparison using risk-relevant metrics (ROC-AUC, PR-AUC, threshold-based trade-offs)
+- Emphasis on transparency, auditability, and human-in-the-loop risk review
+
 ### Credit Approval Classification  
 Supervised learning project focused on credit decisioning.
 - Data preprocessing and missing data handling  
