@@ -1,6 +1,6 @@
 ## Hi, I’m Stéphanie 👋
 
-I’m completed a Bachelor’s degree in Mathematics with a concentration in Statistics. I’m focused on **MRM, credit decisioning, and the responsible use of predictive models** in financial and regulated contexts.
+I completed a Bachelor’s degree in Mathematics with a concentration in Statistics. I’m focused on **MRM, credit decisioning, and the responsible use of predictive models** in financial and regulated contexts.
 
 My work emphasizes **interpretability, validation, and governance**, with the goal of supporting decisions rather than automating them blindly.
 
